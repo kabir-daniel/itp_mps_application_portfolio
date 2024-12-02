@@ -4,10 +4,12 @@ draft: false
 tags:
   - hub
 ---
-Welcome! You can navigate this portfolio using the explorer on the left, the node map on the right, or by clicking directly on embedded hyperlinks.
+#### Welcome! 
+
+You can navigate this portfolio using the explorer on the left, the node map on the right, or by clicking directly on embedded hyperlinks.
 
 
-I've included in this portfolio both [[Projects]] and [[Hypotheses]]. 
+#### I've included in this portfolio both [[Projects]] and [[Hypotheses]]. 
 
 [[Projects]] are mostly technical -- some are just creative computing projects, and others use technical disciplines creatively alongside theoretical inquiry in an attempt at study or critique. 
 
