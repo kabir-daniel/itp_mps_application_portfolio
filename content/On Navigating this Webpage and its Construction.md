@@ -1,5 +1,5 @@
 ---
-title: < % tp.file.title % >
+title: On Navigating this Webpage and its Construction
 draft: false
 tags:
   - example-tag
