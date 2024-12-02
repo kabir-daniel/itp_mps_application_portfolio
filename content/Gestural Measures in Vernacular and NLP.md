@@ -99,7 +99,7 @@ Without a doubt, this project will be an extremely long term one, which I will n
 References for commentaries on underrepresentation of vernacular in academic history:
 
 
-[Dante Alighieri's "De Vulgari Eloquentia]((https://www.danteonline.it/english/opere.asp?idope=3&idlang=UK) 
+[Dante Alighieri's "De Vulgari Eloquentia](https://www.danteonline.it/english/opere.asp?idope=3&idlang=UK) 
 
 
 James Joyce's *[The Portrait of the Artist as a Young Man](https://www.gutenberg.org/files/4217/4217-h/4217-h.htm#link2HCH0005)* 

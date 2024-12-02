@@ -6,7 +6,7 @@ tags:
 ---
 #### Welcome! 
 
-You can navigate this portfolio using the explorer on the left, the node map on the right, or by clicking directly on embedded hyperlinks.
+You can navigate this portfolio using the explorer on the left, the backlinks or node map on the right, or by clicking directly on embedded hyperlinks.
 
 
 #### I've included in this portfolio both [[Projects]] and [[Hypotheses]]. 
