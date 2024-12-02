@@ -1,6 +1,9 @@
-*[["Good evening, stranger, and welcome."]]* 
-
-`If you find this page is too long, scroll down to the TL;DR section to get started`
+---
+title: < % tp.file.title % >
+draft: false
+tags:
+  - example-tag
+---
 
 ## On this Portfolio:
 
@@ -80,4 +83,4 @@ To begin, you may click on this link to the [[Projects Page]] for my technical w
 
 
 #hub
-backlinks: none
+backlinks: [Projects]([[content/index|index]]])

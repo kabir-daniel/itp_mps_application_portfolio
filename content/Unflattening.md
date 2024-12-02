@@ -19,4 +19,4 @@ His work has directly influenced two hypotheses detailed in this website: [[3D W
 
 
 #reference
-backlinks: [[Homepage]], [[3D Writing for Alternative Scholarship with Hyperlinks]], [[Zithers]]
+backlinks: [[On Navigating this Webpage and its Construction]], [[3D Writing for Alternative Scholarship with Hyperlinks]], [[Zithers]]
