@@ -1,6 +1,30 @@
 ---
 title: Home
 ---
+Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in text that looks like [this](#Hyperlink-Poetry-as-3D-Essay-Writing-for-Alternative-Scholarship)
+
+Technical Research Interests:
+- Voice Spectral Analysis
+- Networks and VR for Audiovisual Performance and Composition Environments
+- Physical Modeling with 2D Waves
+- Generative Musical Performance
+- VR as a Modality for Representation and Learning
+- Alternative Musical Instrument Design Integrating Software and Hardware (Inspirations: Auerglass, Hyperbass)
+
+
+Theoretical Research Interests:
+- Anarchival Practice
+- Poetics and Relation
+- Philosophy of Law
+- Metaphysics
+- Language, Performance, Grammar, and Ethics
+- Performative Methods for Alternative Scholarship
+- Public Memory, Space/Place, Rhetorical Ecology, and Rhetorical Cartography
+
+
+
+
+
 # Projects
 
   
