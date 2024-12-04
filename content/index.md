@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in text that looks like [this](#Hyperlink-Poetry-as-3D-Essay-Writing-for-Alternative-Scholarship)
+Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in text that looks like [this](https://kabir-daniel.github.io/itp_mps_application_portfolio/Hyperlink-Poetry-as-3D-Essay-Writing-for-Alternative-Scholarship)
 
 Technical Research Interests:
 - Voice Spectral Analysis
