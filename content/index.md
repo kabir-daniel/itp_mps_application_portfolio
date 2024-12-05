@@ -23,6 +23,9 @@ Theoretical Research Interests:
 ***
 
 
+
+
+
 ***
 # Projects
 ***
@@ -38,6 +41,7 @@ Theoretical Research Interests:
 ***
 
 
+
 ***
 ### Gestural Measures in Vernacular and NLP 
 
@@ -45,6 +49,7 @@ Theoretical Research Interests:
 
 Topics: Representation in Education, the Sound Aspect of Language, Gesture, Performance
 ***
+
   
   
 ***
@@ -54,7 +59,8 @@ Topics: Representation in Education, the Sound Aspect of Language, Gesture, Perf
 
   Topics: VR as a Learning Tool, Multidimensional Approach to Learning and Representation, 2D Wave Equations, Fourier Transform, Physical Modeling Sound Synthesis
 ***
-  
+
+
 
 ***
 ### Vocal Harmony Algorithms with Adapting Markov Chains and Shortest Paths 
@@ -64,12 +70,24 @@ Topics: Representation in Education, the Sound Aspect of Language, Gesture, Perf
   Topics: Markov Chains, Shortest Paths Algorithms, Voice Spectrum Analysis, Fourier Transform
 ***
 
-  
+
+
+***
+### Hyperlink Poetry as 3D Essay Writing for Alternative Scholarship
+
+##### *Alternative Scholarship*
+
+  Topics: "Unflattening", Poesis, Literature, Criticism
+***
+
+
+
 ***
 ### Reverb and Transverse Interference Patterns in 4D 
 
 ##### *Audiovisual Performance Tool*
 ***
+
 
 
 ***
@@ -87,16 +105,19 @@ Topics: Representation in Education, the Sound Aspect of Language, Gesture, Perf
 ***
 
 
-***
+
+
 ### Identity Occlusion: Discourse's Collapse in Measuring Dialectic Monologues and the Tyranny of Representation 
 
 ##### *Performance Piece*
 ***
 
 
+
 ***
 # Sound Sculptures
 ***
+
 
 
 ***
@@ -131,7 +152,8 @@ Inspired by Heidegger's "Triadic Conversation" -- the character of the guide, in
 
 ***
 
-  
+
+
 ***
 ### Confrontation: The Tree of Law 
 
