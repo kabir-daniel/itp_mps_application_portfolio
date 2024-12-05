@@ -1,8 +1,9 @@
 ---
 title: Home
 ---
+***
 Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in text that looks like [this](https://kabir-daniel.github.io/itp_mps_application_portfolio/Hyperlink-Poetry-as-3D-Essay-Writing-for-Alternative-Scholarship)
-
+***
 Technical Research Interests:
 - Voice Spectral Analysis
 - Networks and VR for Audiovisual Performance and Composition Environments
@@ -10,8 +11,7 @@ Technical Research Interests:
 - Generative Musical Performance
 - VR as a Modality for Representation and Learning
 - Alternative Musical Instrument Design Integrating Software and Hardware (Inspirations: Auerglass, Hyperbass)
-
-
+***
 Theoretical Research Interests:
 - Anarchival Practice
 - Poetics and Relation
@@ -20,15 +20,11 @@ Theoretical Research Interests:
 - Language, Performance, Grammar, and Ethics
 - Performative Methods for Alternative Scholarship
 - Public Memory, Space/Place, Rhetorical Ecology, and Rhetorical Cartography
+***
 
 
-
-
-
+***
 # Projects
-
-  
-
 ***
 
 - *Below each project title is an overview of that project.* 
@@ -41,15 +37,73 @@ Theoretical Research Interests:
 
 ***
 
+
+***
+### Gestural Measures in Vernacular and NLP 
+
+##### *Language Analysis Tool and Critical Argument*
+
+Topics: Representation in Education, the Sound Aspect of Language, Gesture, Performance
+***
+  
+  
+***
+### Modeling Transverse Wave Interference Patterns in 2D and 3D with VR for Learning Fundamentals of Wave Behavior and Integration in Physical Modeling of Acoustic Membranes 
+
+##### *Audiovisual Performance and Learning Tool*
+
+  Topics: VR as a Learning Tool, Multidimensional Approach to Learning and Representation, 2D Wave Equations, Fourier Transform, Physical Modeling Sound Synthesis
+***
+  
+
+***
+### Vocal Harmony Algorithms with Adapting Markov Chains and Shortest Paths 
+
+##### *Musical Performance and Language Analysis*
+
+  Topics: Markov Chains, Shortest Paths Algorithms, Voice Spectrum Analysis, Fourier Transform
+***
+
+  
+***
+### Reverb and Transverse Interference Patterns in 4D 
+
+##### *Audiovisual Performance Tool*
+***
+
+
+***
+### Network-Based VR Audiovisual Composition and Performance Environment
+
+##### *Audiovisual Performance Tool*
+***
   
 
   
+***
+### Gray Code Microtonal Interface 
 
+##### *Musical Performance Tool*
+***
+
+
+***
+### Identity Occlusion: Discourse's Collapse in Measuring Dialectic Monologues and the Tyranny of Representation 
+
+##### *Performance Piece*
+***
+
+
+***
+# Sound Sculptures
+***
+
+
+***
 ### On the Map Room: Cartography as Speculative Figure Drawing for Anarchival Practice 
 
 ##### *Sound Sculpture*
 
-***
 
 Historically, map rooms served as a locus for information and power. Today, maps still inform and govern our ordinary lives. Maps guide map users in traversing or interpreting a space. 
 
@@ -78,109 +132,22 @@ Inspired by Heidegger's "Triadic Conversation" -- the character of the guide, in
 ***
 
   
-
+***
 ### Confrontation: The Tree of Law 
 
 ##### *Sound Sculpture*
 
-***
 
 "The Tree of Law" is a sculpture modeled after the scale that is the symbol for Columbia's Education Graduate Program, "Teachers College". This is the institution which gave us both Nick Sousanis's *Unflattening* and Lucy Calkin's infamous balanced literacy curriculum. 
 
-  
+The installation lives in an enclosure that looks like a hanging bird cage. The cage is bifurcated by a line of taught harp strings, anchored at the top of the birdcage and the diameter on the floor. The audience may step into one half of the cage to be confronted with what stands on the other side of the barrier -- the "Tree".
 
-The installation lives in an enclosure that looks like a hanging bird cage. The cage is bifurcated by 
+The "Tree" is a large sculpture inspired by the Teachers College symbol. The "T" figure in the Teachers College symbol serves as the trunk for "The Tree of Law", which represents a balance scale -- a universal symbol for law and justice. However, instead of balance pots hanging by wire from the branches of the "T", long, heavy gauge copper induction coils extend down and forward. In the induction coils are two earbuds, each playing its own note. The notes are controlled by a dialectic melody machine similar to one I made based on Chomsky's syntactic structures in undergrad. In short, the earbuds are playing notes that complete each other -- but they are too high up to hear. The audience member must reach up and pull down one of the "fruits" to hear what it is saying -- and, in doing so, the other rises out of reach.
 
-  
-
-.........
+This project seeks to explore thought put forward by Sousanis's *Unflattening*, Tauba Auerbach's "Auerglass", and more in an inquiry and criticism into metaphysics of education, law, and ethics.
 
   
-
-The "Tree" 
-
-  
-
-The "T" figure in the Teachers College symbol serves as the trunk for "The Tree of Law", which represents a scale -- a universal symbol for law and justice. However, instead of balance pots hanging by wire from the branches of the "T", long, heavy gauge copper induction coils extend down and forward. 
-
-  
+This is a working draft of the hyperlink poem that would accompany the work:
 
 "Confrontation is facing together. We recall that a face is a mask. A mask makes present by facing a face outward, concealing a face within. What a mask makes present is the character the body masked embodies in its performance. We cannot come to know the being at hand by the sight we're faced with; what we see is an illusion that lets us believe what character in front of us exists, seen through our eyes. Whether we come to know the being not in the light of reason but in the shadows of cognition's illuminations is not at hand -- we are, the technology of time. We are transient -- that aspect of the sound object that makes it characteristic of itself, in sound and essence. We forget our own existence -- that's how it stands out: by its passing on to the next tone or silence. We are stereoscopic, that's what lets us bind at all -- relation, exigence in context. Language is difference in motion, forgetting happening by memory's recognitions and releasement. We move about unmoving anchors in natural waters, plastic sound in stereo."
-
 ***
-
-  
-
-  
-
-  
-
-### Identity Occlusion: Discourse's Collapse in Measuring Dialectic Monologues and the Tyranny of Representation 
-
-##### *Performance Piece*
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-### Gestural Measures in Vernacular and NLP 
-
-##### *Language Analysis Tool and Critical Argument*
-
-  
-
-  
-
-  
-
-  
-
-### Modeling Transverse Wave Interference Patterns in 2D and 3D with VR for Learning Fundamentals of Wave Behavior and Integration in Physical Modeling of Acoustic Membranes 
-
-##### *Audiovisual Performance and Learning Tool*
-
-  
-
-  
-
-  
-
-  
-
-### Vocal Harmony Algorithms with Adapting Markov Chains and Shortest Paths 
-
-##### *Musical Performance and Language Analysis*
-
-  
-
-  
-
-  
-
-  
-
-### Reverb and Transverse Interference Patterns in 4D 
-
-##### *Audiovisual Performance Tool*
-
-  
-
-  
-
-  
-
-  
-
-### Gray Code Microtonal Interface 
-
-##### *Musical Performance Tool*
