@@ -32,22 +32,24 @@ Theoretical Research Interests:
 
 - *Below each project title is an overview of that project.* 
 
-- *For full specifications of a project, including references, click on the hyperlink embedded in the project title.*
+- *For full specifications of a project, including references, click on the hyperlink embedded in the project title. (Coming Soon)*
 
-- *Some words in the descriptions also have hyperlinks to provide more context when needed.*
+- *Some words in the descriptions also have hyperlinks to provide more context when needed. (Coming Soon)*
 
-- *Each project has a subheading describing what kind of project it is. You can click on each of the subheadings to read about my interest in using them as methods of althernative scholarship.*
-
-***
-
-
+- *Each project has a subheading describing what kind of project it is. You can click on each of the subheadings to read about my interest in using them as methods of althernative scholarship. (Coming Soon)*
 
 ***
-### Gestural Measures in Vernacular and NLP 
+
+
+
+***
+### Gestural Measures in Vernacular with NLP 
 
 ##### *Language Analysis Tool and Critical Argument*
 
-Topics: Representation in Education, the Sound Aspect of Language, Gesture, Performance
+Topics: Machine Learning, Voice Spectrum Analysis, the Sound Object and Language, Representation in Education, Gesture, Performance, Accessibility in Representation
+
+This project began in conjunction with Berkeley's Data Lab as a digital humanities project in Professor Catherine Flynn's class on AI and Irish literature. Combining methods in linguistics and data science with voice spectrum analysis, this project purports to visually represent the gestural quality of language in written text using the ToBI System. By combining standard Natural Language Processing tools (like the CMU Pronunciation Dictionary) with a program which used STFTs to analyze rhythmic and tonal inflections in speech, I created a program that could analyze written text and output a ToBI annotation visually representing the sonic gesture of what the text was saying. Initially, this project was an inquiry into whether or not the gestures of language could be analytically represented through the lens of the sound object. However, upon implementation of the program, I found a different problem: the CMU Pronunciation Dictionary does not accurately represent the sonic qualities of particular vernaculars of English (such as vernaculars or dialects of English spoken in Ireland). Finding writings from David Foster Wallace, James Joyce, and Dante Alighieri which critiqued representation (or lack thereof) for vernaculars of a language in Academia inspired me to further research this question of representing the sound object in language and its bearing on gestures in speech and written text. The future of this project involves using machine learning to analyze particular dialects and automatically generate pronunciation dictionaries for that demographic's usage of the language at hand, then visually representing the melodic and rhythmic gestures that arise in reading a text in that dialect to draw our attention to what differences may arise.
 ***
 
   
