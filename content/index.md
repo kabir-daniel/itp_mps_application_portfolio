@@ -49,7 +49,13 @@ Theoretical Research Interests:
 
 Topics: Machine Learning, Voice Spectrum Analysis, the Sound Object and Language, Representation in Education, Gesture, Performance, Accessibility in Representation
 
-This project began in conjunction with Berkeley's Data Lab as a digital humanities project in Professor Catherine Flynn's class on AI and Irish literature. Combining methods in linguistics and data science with voice spectrum analysis, this project purports to visually represent the gestural quality of language in written text using the ToBI System. By combining standard Natural Language Processing tools (like the CMU Pronunciation Dictionary) with a program which used STFTs to analyze rhythmic and tonal inflections in speech, I created a program that could analyze written text and output a ToBI annotation visually representing the sonic gesture of what the text was saying. Initially, this project was an inquiry into whether or not the gestures of language could be analytically represented through the lens of the sound object. However, upon implementation of the program, I found a different problem: the CMU Pronunciation Dictionary does not accurately represent the sonic qualities of particular vernaculars of English (such as vernaculars or dialects of English spoken in Ireland). Finding writings from David Foster Wallace, James Joyce, and Dante Alighieri which critiqued representation (or lack thereof) for vernaculars of a language in Academia inspired me to further research this question of representing the sound object in language and its bearing on gestures in speech and written text. The future of this project involves using machine learning to analyze particular dialects and automatically generate pronunciation dictionaries for that demographic's usage of the language at hand, then visually representing the melodic and rhythmic gestures that arise in reading a text in that dialect to draw our attention to what differences may arise.
+Overview:
+This project began in conjunction with Berkeley's Data Lab as a digital humanities project in Professor Catherine Flynn's class on AI and Irish literature. 
+Combining methods in linguistics and data science with voice spectrum analysis, this project purports to visually represent the gestural quality of language in written text using the ToBI System. 
+By combining standard Natural Language Processing tools (like the CMU Pronunciation Dictionary) with a program which used STFTs to analyze rhythmic and tonal inflections in speech, I created a program that could analyze written text and output a ToBI annotation visually representing the sonic gesture of what the text was saying. 
+Initially, this project was an inquiry into whether or not the gestures of language could be analytically represented through the lens of the sound object. However, upon implementation of the program, I found a different problem: the CMU Pronunciation Dictionary does not accurately represent the sonic qualities of particular vernaculars of English (such as vernaculars or dialects of English spoken in Ireland). 
+Finding writings from David Foster Wallace, James Joyce, and Dante Alighieri which critiqued representation (or lack thereof) for vernaculars of a language in Academia inspired me to further research this question of representing the sound object in language and its bearing on gestures in speech and written text. 
+The future of this project involves using machine learning to analyze particular dialects and automatically generate pronunciation dictionaries for that demographic's usage of the language at hand, then visually representing the melodic and rhythmic gestures that arise in reading a text in that dialect to draw our attention to what differences may arise.
 ***
 
   
@@ -59,7 +65,13 @@ This project began in conjunction with Berkeley's Data Lab as a digital humaniti
 
 ##### *Audiovisual Performance and Learning Tool*
 
-  Topics: VR as a Learning Tool, Multidimensional Approach to Learning and Representation, 2D Wave Equations, Fourier Transform, Physical Modeling Sound Synthesis
+Topics: VR as a Learning Tool, Multidimensional Approach to Learning and Representation, 2D Wave Equations, Fourier Transform, Physical Modeling Sound Synthesis
+
+Overview:
+This tool's use cases split in to: audio synthesis, and visual representation. The overall project seeks to use visual models of wave interference patterns to serve as a method of physical modeling synthesis, and to serve as a learning tool in approaching wave equations.
+The current implementation of this tool creates two kinds of maps to visually represent 2D transverse wave interference patterns in an ideal euclidean plane. The first is a node map, which shows emergent harmonic patterns that emerge from the waves' collision. The second is a heatmap, which shows the distribution of energy throughout the antinodes. The user can visually see these maps and manually play with the parameters to watch how the interference patterns and energy levels shift and self-organize.
+To achieve physical modeling synthesis of acoustic membranes (and, possibly, wind instruments), the program would scan the data from the heatmap, then use Fourier Analysis to synthesize a series of frequency/amplitude pairings that would recreate the sound being played. By setting fixed parameters and having the program sweep through them with appropriate decay rates, this program could reasonably visually model, mathematically analyze, and sonically synthesize the sizzle of a snare drum, or the rumble of a timpani. If the program could make the leap to modeling bell-like shapes, rather than shapes in square or circular planes (which might be explored with either multivariable calculus or hyperbolic geometry, depending on the limitations of the tool's implementation), the program may be able to synthesize cymbals. The leap to modeling wind instruments may be a similar progression of the tool, probably using integration (and maybe heuristics) to represent texturally intricate sheets of air particles rising in a column of air (like a pipe organ).
+The visual aspect of this project may be more interesting from a research perspective. What happens if we expand the wave equation from 2D to 3D? What happens when we make the tool a VR environment that users could roam around in as they play with the parameters? What happens if we reverse the sound synthesis process with STFTs to create an audioreactive program that can represent sounds visually as they change in a highly descriptive way? If we do this, and add an extra dimension, this would surely make for an interesting audiovisual performance art tool -- but does it have an educational use? What if we could make the program model longitudinal waves rather than transverse waves (which have different properties, like rarefactions vs. troughs)? Could we implement rules to mimic induction and use this tool to explore harmonic distortion in electric flux? I'm aware most of these questions (if not all of them) break down at a certain point for some intricacy I didn't consider -- that is why I'm so in love with this project. I don't know what those intricate details about 2D and 3D waves are, and I want to learn what they are and how they work.
 ***
 
 
@@ -69,7 +81,7 @@ This project began in conjunction with Berkeley's Data Lab as a digital humaniti
 
 ##### *Musical Performance and Language Analysis*
 
-  Topics: Markov Chains, Shortest Paths Algorithms, Voice Spectrum Analysis, Fourier Transform
+Topics: Markov Chains, Shortest Paths Algorithms, Voice Spectrum Analysis, Fourier Transform
 ***
 
 
@@ -79,7 +91,7 @@ This project began in conjunction with Berkeley's Data Lab as a digital humaniti
 
 ##### *Alternative Scholarship*
 
-  Topics: "Unflattening", Poesis, Literature, Criticism
+Topics: "Unflattening", Poesis, Literature, Criticism
 ***
 
 
