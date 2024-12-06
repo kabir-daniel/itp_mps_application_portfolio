@@ -75,7 +75,7 @@ This project began in conjunction with Berkeley's Data Lab as a digital humaniti
 
 
 ***
-### Hyperlink Poetry as 3D Essay Writing for Alternative Scholarship
+### [Hyperlink Poetry as 3D Essay Writing for Alternative Scholarship](https://kabir-daniel.github.io/itp_mps_application_portfolio/Hyperlink-Poetry-as-3D-Essay-Writing-for-Alternative-Scholarship)
 
 ##### *Alternative Scholarship*
 
