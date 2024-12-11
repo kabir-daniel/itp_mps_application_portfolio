@@ -32,4 +32,3 @@ title: Projects
 ### [Gray Code Interface](https://kabir-daniel.github.io/itp_mps_application_portfolio/Gray-Code-Interface)
 ###### Musical Performance Tool
 ###### *Topics: Musical Instrument Design, AltCS, Woodworking, Mechatronics, Way of the Hand*
-***
