@@ -2,7 +2,7 @@
 title: Home
 ---
 ***
-Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in text that looks like [this](https://kabir-daniel.github.io/itp_mps_application_portfolio/Hyperlink-Poetry-as-3D-Essay-Writing-for-Alternative-Scholarship)
+Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in differently colored text.
 ***
 Technical Research Interests:
 - [Voice Spectral Analysis](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/spectral-envelope-correction-for-real-time-transposition.pdf?c=icmc;idno=bbp2372.2002.028;format=pdf)
@@ -21,11 +21,6 @@ Theoretical Research Interests:
 - [Performative Methods for Alternative Scholarship](https://static1.squarespace.com/static/5526ca35e4b02b6cae98841c/t/5e8644ec1b1008571750e24e/1585857789526/FINAL+Constant+Structure+Moten.pdf)
 - [Public Memory, Space/Place, Rhetorical Ecology, and Rhetorical Cartography](https://static1.squarespace.com/static/53713bf0e4b0297decd1ab8b/t/5c33768f4d7a9cb35387765f/1546876564526/edbauer_rhetorical_ecologies.pdf)
 ***
-
 ***
-# [Projects](https://kabir-daniel.github.io/itp_mps_application_portfolio/Projects)
-
-
-
-[[Projects]]
+# [[Projects]]
 ***
