@@ -24,4 +24,8 @@ Theoretical Research Interests:
 
 ***
 # [Projects](https://kabir-daniel.github.io/itp_mps_application_portfolio/Projects)
+
+
+
+[[Projects]]
 ***
