@@ -36,7 +36,7 @@ Theoretical Research Interests:
 
 - *Some words in the descriptions also have hyperlinks to provide more context when needed. (Coming Soon)*
 
-- *Each project has a subheading describing what kind of project it is. You can click on each of the subheadings to read about my interest in using them as methods of althernative scholarship. (Coming Soon)*
+- *Each project has a subheading describing what kind of project it is. You can click on each of the subheadings to read about my interest in using them as methods of alternative scholarship. (Coming Soon)*
 
 ***
 
@@ -90,6 +90,7 @@ The visual aspect of this project may be more interesting from a research perspe
 ##### *Musical Performance and Language Analysis*
 
 Topics: Markov Chains, Shortest Paths Algorithms, Voice Spectrum Analysis, Fourier Transform
+
 Brief Overview: Created harmony algorithms using 2, 4, 6, 8, and 16 voices using basic algorithms, then by appropriating Djikstra's Algorithm. Final iteration of the project used 4 layers of Markov Chains to achieve customizable textures with user commands. 
 
 The design was: the user can press one button for the chord to play, and another for the desired texture. The program would read what current note values are, scan what possible destinations in other notes were valid given the user's chord input, and adjust the probability weight of each path to another note for each of the 4 voices sequentially based on the user's texture input, the last few notes that particular voice had played, and the current notes the other voices occupied. This was to achieve internal voice leading and to reduce monotony in the 12 tone scale.
@@ -170,25 +171,20 @@ I would also like to incorporate this idea into a mechatronic bridge system to a
 
 Historically, map rooms served as a locus for information and power. Today, maps still inform and govern our ordinary lives. Maps guide map users in traversing or interpreting a space. 
 
-  
 
 Whether it's a literal map -- like in urban planning or legislative districts -- or an abstract map -- memory, or an archive, or the space of literature, or the space of law --, the map delimits for those who rely on it the possibility of how they could imagine or encounter the space. 
-
   
 
-My argument for this relies on Nick Sousanis's Zithers -- skeletal lines he uses in designing a comic book page, governing the order in which the reader encounters the argument and determining how the reader's attention will be allocated -- and Ramona Naddaff's reading of Plato's *Republic* -- which delves deep into the nuances of how foundational myths control the possibility of what a state can become.
+My argument for this relies on Nick Sousanis's Zithers -- skeletal lines he uses in designing a comic book page, governing the order in which the reader encounters the argument and determining how the reader's attention will be allocated -- and Ramona Naddaff's reading of Plato's *Republic* -- which delves deep into the nuances of how foundational myths control the possibility of what a state can become.  
 
-  
 
-  
 
 The sculpture itself for "On the Map Room" is a map room full of different maps represented in different ways. Some can be interacted with, giving the audience a sense of agency in encountering the map; others are fixed for them beforehand. Each unique map is accompanied by a written piece, serving as a critical lens into ways of imagining space, relation, and representation. Relevant topics will span from non-euclidean spaces, to maps of the cold war, and further.
 
-  
 
 Inspired by Heidegger's "Triadic Conversation" -- the character of the guide, in particular --, the space of the map room is itself a space to be traversed and interpreted, but there is no map for how to navigate the map room. Each audience member must make their own way for themselves.
 
-  
+
 
 "Speculative Figure Drawing" incorporates arguments of speculative thinking with Barthes's writing on fragments, figures, and discursis. This creates a foundation for criticism concerning presence/absence in (an)archival theory as a matter of traversal (space, time, relation). 
 
@@ -202,7 +198,7 @@ Inspired by Heidegger's "Triadic Conversation" -- the character of the guide, in
 ##### *Sound Sculpture*
 
 
-"The Tree of Law" is a sculpture modeled after the scale that is the symbol for Columbia's Education Graduate Program, "Teachers College". This is the institution which gave us both Nick Sousanis's *Unflattening* and Lucy Calkin's infamous balanced literacy curriculum. 
+"The Tree of Law" is a sculpture of a scale scale modeled after the symbol for Columbia's Education Graduate Program, "Teachers College". This is the institution which gave us both Nick Sousanis's *Unflattening* and Lucy Calkin's infamous balanced literacy curriculum. 
 
 The installation lives in an enclosure that looks like a hanging bird cage. The cage is bifurcated by a line of taught harp strings, anchored at the top of the birdcage and the diameter on the floor. The audience may step into one half of the cage to be confronted with what stands on the other side of the barrier -- the "Tree".
 
