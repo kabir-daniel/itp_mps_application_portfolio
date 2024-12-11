@@ -1,5 +1,5 @@
 ---
-title: template
+title: Gray Code Interface
 ---
 I find the construction of tools and theories guided by what use can be derived from the work's production limits the possibility of what the work can become. As such, I've grown fond of what I call Alternative Computer Science -- uses of Computer Science that are more fun and creative than they are useful. Examples of AltCS include the intentionally inefficient systems of the esolang community, the gemini protocol, and grey code. 
 
