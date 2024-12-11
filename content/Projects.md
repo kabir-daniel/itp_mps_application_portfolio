@@ -25,10 +25,12 @@ title: Projects
 ***
 ### [On the Map Room: Cartography as Speculative Figure Drawing for Anarchival Practice](https://kabir-daniel.github.io/itp_mps_application_portfolio/On-the-Map-Room---Cartography-as-Speculative-Figure-Drawing-for-Anarchival-Practice) 
 ###### Sound Sculpture
+*Topics: Anarchival Practice, Rhetorical Cartography, Figures and Discourse*
 ***
 ### [Confrontation: The Tree of Law](https://kabir-daniel.github.io/itp_mps_application_portfolio/Confrontation---The-Tree-of-Law)
 ###### Sound Sculpture
+*Topics: Governance, Representation, Ethics, Archive, Dialectic*
 ***
 ### [Gray Code Interface](https://kabir-daniel.github.io/itp_mps_application_portfolio/Gray-Code-Interface)
 ###### Musical Performance Tool
-###### *Topics: Musical Instrument Design, AltCS, Woodworking, Mechatronics, Way of the Hand*
+*Topics: Musical Instrument Design, AltCS, Woodworking, Mechatronics, Way of the Hand*
