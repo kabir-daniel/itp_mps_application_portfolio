@@ -21,6 +21,7 @@ Theoretical Research Interests:
 - [Performative Methods for Alternative Scholarship](https://static1.squarespace.com/static/5526ca35e4b02b6cae98841c/t/5e8644ec1b1008571750e24e/1585857789526/FINAL+Constant+Structure+Moten.pdf)
 - [Public Memory, Space/Place, Rhetorical Ecology, and Rhetorical Cartography](https://static1.squarespace.com/static/53713bf0e4b0297decd1ab8b/t/5c33768f4d7a9cb35387765f/1546876564526/edbauer_rhetorical_ecologies.pdf)
 ***
+Long-term Research Goal: Synthesize methods from Nick Sousanis, Tauba Auerbach, David Sudnow, and Fred Moten to explore Sound Sculpture as a method for Alternative Scholarship in Philosophical Inquiry and Critique
 ***
 # [[Projects]]
 ***
