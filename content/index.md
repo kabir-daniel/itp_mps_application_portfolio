@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Kabir Daniel ITP MPS Application Portfolio
 ---
 ***
-Welcome to my portfolio! Think of this website as an open space you can traverse in whatever order seems appropriate. To traverse the space, click the hyperlinks embedded in differently colored text.
+Welcome to my portfolio! To traverse this space, click the hyperlinks embedded in differently colored text.
 ***
 Technical Research Interests:
 - [Voice Spectral Analysis](https://quod.lib.umich.edu/cgi/p/pod/dod-idx/spectral-envelope-correction-for-real-time-transposition.pdf?c=icmc;idno=bbp2372.2002.028;format=pdf)
