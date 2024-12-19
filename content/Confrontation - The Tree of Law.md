@@ -1,6 +1,8 @@
 ---
 title: "Confrontation: The Tree of Law"
 ---
+*Topics: Governance, Representation, Ethics, Archive, Dialectic*
+***
 "The Tree of Law" is a sculpture of a scale scale modeled after the symbol for Columbia's Education Graduate Program, "Teachers College". This is the institution which gave us both Nick Sousanis's *Unflattening* and Lucy Calkin's infamous balanced literacy curriculum. 
 
 The installation lives in an enclosure that looks like a hanging bird cage. The cage is bifurcated by a line of taught harp strings, anchored at the top of the birdcage and the diameter on the floor. The audience may step into one half of the cage to be confronted with what stands on the other side of the barrier -- the "Tree".

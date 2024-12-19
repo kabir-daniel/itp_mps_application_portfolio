@@ -1,6 +1,8 @@
 ---
 title: "On the Map Room: Cartography as Speculative Figure Drawing for Anarchival Practice"
 ---
+*Topics: Anarchival Practice, Rhetorical Cartography, Figures and Discourse*
+***
 Historically, map rooms served as a locus for information and power. Today, maps still inform and govern our ordinary lives. Maps guide map users in traversing or interpreting a space. 
 
 

@@ -1,8 +1,10 @@
 ---
 title: Hyperlink Poetry as 3D Essay Writing for Alternative Scholarship
 ---
-
+*Topics: "Unflattening", Poesis, Literature, Criticism*
+***
 Brief Overview:
+
 Part of Nick Sousanis's project in *Unflattening* was to increase the dimensions at play in reading and writing argumentation and criticism. Usually such texts are written in standard essay form, but the way Sousanis combined image and text using comic page composition ideas (like zithers) turns the reader's attention toward learning how to notice how their attention navigates the page, revealing crucial aspects of the "unflatness" of learning. The comic book format also allowed him to distort time by reflecting the commentary of a page onto analogous themes elsewhere in the book using imagery and text, creating an event like poking wormholes through the book wherever the reader's active memory could recognize its references. 
 
 Inspired by alternative modes of expression in academic discourse, I started using hyperlink poetry for academic writing in Professor Okiji's class. This allowed me to incorporate the gestures of language afforded by sound and music into writing through the poetic form, without compromising on clarity, citations, or context -- because, the hyperlinks allow the reader to click on a word or argument and get whatever content or context might be missing to clear up any vagueness consequent of the poetic form.
